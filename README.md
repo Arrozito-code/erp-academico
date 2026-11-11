@@ -36,6 +36,20 @@ El proyecto surge como respuesta a diferentes dificultades presentes en la admin
 
 * Asignación de vehículos disponibles.
 
+## Recursos Humanos y Gestión de Personal
+* Registro y administración de conductores.
+
+* Control de licencias y documentación habilitante.
+
+* Programación de turnos rotativos.
+
+## Mantenimiento y Soporte Mecánico
+* Registro de mantenimientos preventivos.
+
+* Gestión de reparaciones correctivas.
+
+* Administración de órdenes de trabajo.
+
 <p align="center">
   <strong>TRANS FAST.INC</strong><br>
   Gestión inteligente. Transporte organizado. Información integrada.
