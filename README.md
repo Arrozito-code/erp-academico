@@ -11,6 +11,7 @@ Su propósito es mejorar la organización interna de las operadoras, reducir las
 
 ## Objetivo General
 Diseñar un sistema ERP que permita centralizar, automatizar y optimizar los procesos de gestión del transporte público urbano, integrando las áreas operativas, administrativas y técnicas de una operadora mediante una estructura de información unificada.
+
 <img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/b7afda9c-792b-4c07-a6e4-a0aef9685a08" />
 
 ## Problemática Identificada
@@ -25,7 +26,10 @@ El proyecto surge como respuesta a diferentes dificultades presentes en la admin
 * Limitaciones en la toma de decisiones: Falta de información organizada y actualizada para planificar y optimizar los recursos de transporte.
 
 ## Módulos del Sistema
+
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f03df12c-a84e-438d-8b75-984f8de12719" />
+
+
 
 <p align="center">
   <strong>TRANS FAST.INC</strong><br>
