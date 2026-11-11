@@ -29,6 +29,7 @@ El proyecto surge como respuesta a diferentes dificultades presentes en la admin
 
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f03df12c-a84e-438d-8b75-984f8de12719" />
 
+## Operaciones y Despacho
 
 
 <p align="center">
