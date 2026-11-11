@@ -1,6 +1,8 @@
 ## Erp-academico
 Definición de un ERP.- Es un sistema de software que integra y centraliza todas las áreas clave de una empresa como lo pueden ser finanzas, contabilidad, inventario, ventas y recursos humanos en una sola plataforma con datos en tiempo real.
 
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/114e4367-a2cd-4841-820b-875663450590" />
+
 # Propuesta del Proyecto "TransFast"
 
 <img width="378" height="342" alt="image" src="https://github.com/user-attachments/assets/818c384e-113c-41ae-84bf-c41ce9d3eaf5" />
