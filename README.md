@@ -52,6 +52,8 @@ El proyecto surge como respuesta a diferentes dificultades presentes en la admin
 
 * Administración de órdenes de trabajo.
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/ff2d52d5-23d1-4076-b4fe-bdac31c2c4ce" />
+
 ## Beneficios del Sistema
 
 | Área | Beneficio |
