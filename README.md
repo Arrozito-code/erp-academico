@@ -52,6 +52,42 @@ El proyecto surge como respuesta a diferentes dificultades presentes en la admin
 
 * Administración de órdenes de trabajo.
 
+## Beneficios del Sistema
+
+| Área | Beneficio |
+|---|---|
+| Operaciones | Mejor planificación de rutas y frecuencias. |
+| Recursos Humanos | Mayor control sobre turnos y personal. |
+| Mantenimiento | Seguimiento del estado técnico de los vehículos. |
+| Administración | Centralización de la información empresarial. |
+| Gestión | Información organizada para la toma de decisiones. |
+
+## Arquitectura Conceptual
+
+```text
+             TRANS FAST.INC
+          SISTEMA ERP DE TRANSPORTE
+                     |
+          +----------+----------+
+          |          |          |
+          v          v          v
+     OPERACIONES  RECURSOS   MANTENIMIENTO
+     Y DESPACHO   HUMANOS    MECÁNICO
+          |          |          |
+          +----------+----------+
+                     |
+                     v
+             BASE DE DATOS
+               RELACIONAL
+                     |
+                     v
+          INFORMACIÓN CENTRALIZADA
+                     |
+                     v
+          TOMA DE DECISIONES
+```
+
+---
 <p align="center">
   <strong>TRANS FAST.INC</strong><br>
   Gestión inteligente. Transporte organizado. Información integrada.
